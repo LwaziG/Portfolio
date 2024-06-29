@@ -13,3 +13,5 @@ https://africanthreads.000webhostapp.com/admin_area/login.php
 **Admin Login Details**
 Username: lgumede@gmail.com
 Password: qwerty@1
+
+Developed By Lwazi Gumede
