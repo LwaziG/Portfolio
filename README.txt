@@ -15,4 +15,24 @@ email address: user1@gmail.com
 
 password: admin@user1
 
+#### ScreenShots
+![alt text](homepage.png)
+
+
+![alt text](newstock.png)
+
+
+![alt text](stocklist.png)
+
+
+![alt text](purchaselist.png)
+
+
+![alt text](newsale.png)
+
+
+![alt text](supplierslist.png)
+
+
+![alt text](login.png)
 Developed By: Lwazi Gumede
