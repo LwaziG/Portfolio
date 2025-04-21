@@ -1,4 +1,6 @@
-Installation instructions:
+# Inventory Management System
+
+### Installation instructions:
 - Download the project, unzip the project file and head over to the project root folder
 - Open your Terminal/Command Prompt on the project’s root folder
 - Install the Requirements: pip install -r requirements.txt
@@ -8,31 +10,35 @@ Installation instructions:
 - At last, open up your favorite web browser
 - Go to URL “http://127.0.0.1/[ PORT_NUMBER ]/“
 
-**Login Details**
+
+### Login Details
 username: admin_user1
 
 email address: user1@gmail.com
 
 password: admin@user1
 
-#### ScreenShots
+### ScreenShots
+#### Home Page
 ![alt text](homepage.png)
 
-
+#### New Stock
 ![alt text](newstock.png)
 
-
+#### Stock List
 ![alt text](stocklist.png)
 
-
+#### Purchase List
 ![alt text](purchaselist.png)
 
-
+#### New Sale
 ![alt text](newsale.png)
 
-
+#### Suppliers List
 ![alt text](supplierslist.png)
 
-
+#### Login Page
 ![alt text](login.png)
-Developed By: Lwazi Gumede
+
+
+### Developed By: Lwazi Gumede
